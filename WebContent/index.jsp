@@ -13,7 +13,7 @@
 		<p>커밋 후 처리 방법</p>
 		<ul>
 			<li> 1. 커밋된 소스 브랜치 초기화 : 특정 위치로 되돌림(hard:폐기/mixed:unstaged/soft:stage)</li>
-			<li> 2. reverse commit</li>
+			<li> 2. REVERSE COMMIT (ctrl+shift+x 대문자로 변경)</li>
 		</ul>
 	
 	</body>
